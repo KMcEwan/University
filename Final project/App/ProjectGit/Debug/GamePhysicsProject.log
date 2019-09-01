@@ -1,0 +1,33 @@
+﻿  AABB.cpp
+  BallInner.cpp
+  Balls.cpp
+  BoundingSphere.cpp
+  BoundingSpherePocket.cpp
+  CollisionDetector.cpp
+  Contact.cpp
+  ContactResolver.cpp
+  Cue.cpp
+  Cushions.cpp
+  Drag.cpp
+  EulerSolver.cpp
+  ForceRegistry.cpp
+  Game.cpp
+  GameWindow.cpp
+  Gravity.cpp
+  Grid.cpp
+  Main.cpp
+  PhysicsEntity.cpp
+  PhysicsParameters.cpp
+  Generating Code...
+  Compiling...
+  Pocket.cpp
+  Shadow.cpp
+  Solver.cpp
+  Table.cpp
+  Timer.cpp
+  Transform.cpp
+  Utils.cpp
+c:\users\k_mce\desktop\game physics\app\projectgit\utils.cpp(47): warning C4227: anachronism used: qualifiers on reference are ignored
+  VerletSolver.cpp
+  Generating Code...
+  GamePhysicsProject.vcxproj -> C:\Users\k_mce\Desktop\Game Physics\App\ProjectGit\Debug\GamePhysicsProject.exe
